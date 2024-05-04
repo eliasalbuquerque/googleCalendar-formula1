@@ -35,11 +35,11 @@ as notificações em horários incômodos dos eventos que ocorrem de madrugada
 
 Disso:
 
-![imagem 1](image-1.png)
+![image-1](https://github.com/eliasalbuquerque/googleCalendar-formula1/assets/78819295/7eb4e187-f5d0-4083-83bd-f0d0bc102c46)
 
 Para isso:
 
-![imagem 2](image-2.png)
+![image-2](https://github.com/eliasalbuquerque/googleCalendar-formula1/assets/78819295/00203325-28ac-4985-be9d-898dc652bd40)
 
 
 ## Pré-requisitos
